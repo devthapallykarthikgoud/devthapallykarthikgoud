@@ -1,45 +1,55 @@
-# devathapallykarthikgoud
+
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+karthikeya+;AI+%26+ML+Engineer;Full-Stack+Developer;Cybersecurity+Explorer;Tech+Learner+for+Life+🚀">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c6ff,100:0072ff&height=150&section=header&text=UmaKarthikeya%20Devathapally&fontSize=36&fontColor=ffffff&fontAlignY=50&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20LLMs%20%7C%20RAG%20%7C%20AI%20Agents&descSize=16&descAlignY=72&descColor=d9e6f2" />
 </p>
-
 <!-- Capsule Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome+to+my+Profile!&fontSize=30&fontColor=fff" />
-</p>
+
 
 ---
 
 ## 👨‍💻 About Me  
-💡 I’m a **Computer Science Engineer (AI/ML specialization)** passionate about building **intelligent systems, scalable apps, and secure digital solutions**.  
-🌱 Currently exploring **Generative AI, Full-Stack Web Development, and Ethical Hacking**.  
-⚡ I balance **coding & fitness**: writing models by day, lifting weights by night 🏋️‍♂️.  
-🌍 My dream: **to innovate in AI for real-world impact and help people with technology**.  
+
+AI Engineer focused on building intelligent applications using **Generative AI, LLMs, RAG pipelines, and Full-Stack technologies**.  
+Passionate about developing scalable AI systems that solve real-world problems through automation, intelligent reasoning, and modern software engineering.
+
+Currently working on:
+- 🤖 AI-powered applications using LLMs and AI Agents  
+- ⚡ Full-Stack AI systems with modern web technologies  
+- 🔍 Retrieval-Augmented Generation (RAG) pipelines  
+- 🧠 Machine Learning and Deep Learning solutions  
+- 🛡️ Security-focused and intelligent automation systems  
+
+I enjoy combining strong engineering principles with practical AI development to create impactful and user-focused solutions.
 
 ---
 
-## 🎯 What I’m Doing  
-- 🔬 Working on **AI/ML Projects** (YOLO, Face Recognition, NLP, Predictive Models)  
-- 🌐 Building **Full-Stack Apps** with Django, Flask, React, and Node.js  
-- 🛡️ Exploring **Ethical Hacking & Cybersecurity** for defense and awareness  
-- 📖 Preparing **for advanced certifications in AI/ML and Security**  
+## 🎯 Current Focus  
+
+- 🚀 Building AI applications using **LangChain, RAG, and AI Agents**  
+- 🌐 Developing scalable **Full-Stack AI platforms** with Flask, Django, React, and Node.js  
+- 🧠 Exploring advanced **LLM workflows and intelligent automation systems**  
+- ☁️ Learning modern **Cloud, Docker, and deployment workflows**  
+- 📚 Strengthening expertise in **AI engineering, backend systems, and scalable architectures**  
 
 ---
 
-## 📚 What I’m Learning  
-- 🤖 **Generative AI & LLMs**  
-- 📊 **Advanced Machine Learning & Deep Learning**  
-- ☁️ **Cloud & DevOps (AWS, Docker, CI/CD)**  
-- 📱 **Mobile Penetration Testing & Cyber Defense**  
+## 🔬 Focus Areas  
 
+- Generative AI & Large Language Models (LLMs)  
+- AI Agents & Agentic Workflows  
+- Retrieval-Augmented Generation (RAG)  
+- Full-Stack AI Applications  
+- Scalable Backend & AI System Design  
+- Cloud & Deployment Workflows  
 ---
 
-## 🏆 Certifications & Badges  
+## 🏆 Certifications & Credentials  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/PCEP%20Python%20Certified-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity%20Learner-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20For%20Everyone-FF5733?style=for-the-badge&logo=deeplearning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PCEP-Python%20Certified-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%26%20RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-Full--Stack%20AI%20Systems-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
  
@@ -48,54 +58,49 @@
 
 ## 🛠️ Tech Stack  
 
-### 🌐 Frontend  
+### 🤖 AI / Generative AI  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-0A66C2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+</p>
+
+---
+
+### 🌐 Frontend Development  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend  
+---
+
+### ⚙️ Backend & Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,django,flask,mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,mysql,mongodb,sqlite" />
 </p>
 
-### 🤖 AI / ML  
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" />
-</p>
+---
 
-### ☁️ DevOps / Tools  
+### ☁️ Cloud, DevOps & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman" />
 </p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
 
 
-
----
-
-## 🎮 Fun Facts  
-- 🎵 I learn faster with **music in the background**  
-- 🦾 Love **balancing fitness & coding**  
-- 🌍 I can speak and write **6 languages++**: Arabic, Urdu, Telugu, Tamil, English, and Hindi.  
-- 💻 I also speak the languages of computers 🤓 → Python, C, Java, JavaScript, SQL...
-- ✨ I’m **comfortable in all these languages**, which means I can stay, adapt, and connect almost anywhere — still wondering *what percentage of the world I can survive in!* 🌎 
-
----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devthapallykarthikgoud&hide_progress=true&layout=compact)
 
-## 🎮 Play a Game
-<p align="center">
-  <a href="https://devthapallykarthikgoud.github.io/game/">
-    <img src="https://img.shields.io/badge/Play-Tetris-blue?style=for-the-badge&logo=gamepad&logoColor=white"/>
-  </a>
-  <a href="https://devthapallykarthikgoud.github.io/snakegame">
-    <img src="https://img.shields.io/badge/Play-Snake-green?style=for-the-badge&logo=gamepad&logoColor=white"/>
-  </a>
-  <a href="https://devthapallykarthikgoud.github.io/alien_shooting_game">
-    <img src="https://img.shields.io/badge/Play-shooting-yellow?style=for-the-badge&logo=gamepad&logoColor=white"/>
-  </a>
-</p>
+
 
 
 <p align="center">
