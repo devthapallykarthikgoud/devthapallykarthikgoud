@@ -1,6 +1,8 @@
 
 <!-- Typing SVG -->
+ <img src="https://github.com/user-attachments/assets/e7706f74-3535-4b28-9809-f48e443498a2" width="80" valign="middle"/>
 <p align="center">
+ 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c6ff,100:0072ff&height=150&section=header&text=UmaKarthikeya%20Devathapally&fontSize=36&fontColor=ffffff&fontAlignY=50&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20LLMs%20%7C%20RAG%20%7C%20AI%20Agents&descSize=16&descAlignY=72&descColor=d9e6f2" />
 </p>
 <!-- Capsule Header -->
