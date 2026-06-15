@@ -12,9 +12,7 @@
 
 ## 👨‍💻 About Me  
 
-<center><a href="https://www.umakarthikeya.online" target="_blank" rel="noopener noreferrer">
-  My Portfolio
-</a></center>
+<center>[Portfolio](https://umakarthikeya.online)</center>
 
 AI Engineer focused on building intelligent applications using **Generative AI, LLMs, RAG pipelines, and Full-Stack technologies**.  
 Passionate about developing scalable AI systems that solve real-world problems through automation, intelligent reasoning, and modern software engineering.
